@@ -13,3 +13,11 @@ Adding all of the given pictures was simple, although I couldn't get a link for 
 To fix this problem I went into my OneDrive and got permalinks for ach photo and entered those into the code.
 After, I read through my changes and made sure everything looked up to par, before going on to make this ReadMe.md file.
 After making the ReadmeChal1.md file, I commited it in VS Code to my repository, checking off everything on my list as far as known criteria and steps.
+
+Screen Shots Of Web Page:
+
+<img src="https://bl6pap003files.storage.live.com/y4mBuTU1rtvMG2YmdiGRFI7iLENVFMwSmVn8IK00tLTNFAxB5musHfO60G4HHS0dHMu00g49lJhYdRXM-8UPTUfTPqpHXnMmocYmHT4fVFeWMnlzBx7kxRgA-hPOgKwEeRAKdyvGAX-OeAYDxXWfoku6EsDRGYXgsixvuzxLYPgvcW8oAwqPd_hPg7bn2hhv-V0?width=3840&height=1080&cropmode=none" width="3840" height="1080" />
+
+<img src="https://bl6pap003files.storage.live.com/y4m_LZ_M6dIpfzkdf9bJxkatIy0xgUIBdacsWwNuMRMBU_96jB_PTgPvkJdQzV4RpG4Xde4A4t-71Xrn9ChN_hP0crgjZM262ObxNVQpyo4D7jBDP5pNXDKznPiXOHr6_gj-ZjFH4Z80W91LMEoKYngVw9tkZpf3xFKs4NR76udAmYx0wQeolxWKj28_mvJoJyF?width=3840&height=1080&cropmode=none" width="3840" height="1080" />
+
+<img src="https://bl6pap003files.storage.live.com/y4mGhlz5gw-iMIzdRdWR5LWOVc5MnN5LFKd7lqzYINx9z3hxsMK75SMBmSwjbRga3WV-SdEG0HsmxE4cK3giH0frMBut1HgsoycAv7zDwEM2ayCyAvW54xDQqzMcTjc-h5g3CHgy_dhh8b880dF671w_kQl4EVpkzYYuV0oujYDqi3eNP2manvXgdFde1npCXK5?width=3840&height=1080&cropmode=none" width="3840" height="1080" />
