@@ -13,7 +13,7 @@ Adding all of the given pictures was simple, although I couldn't get a link for 
 To fix this problem I went into my OneDrive and got permalinks for ach photo and entered those into the code.
 After, I read through my changes and made sure everything looked up to par, before going on to make this ReadMe.md file.
 After making the ReadmeChal1.md file, I commited it in VS Code to my repository, checking off everything on my list as far as known criteria and steps.
-Rereading the assignment grading criteria I realized that CSS comments must be added.
+Rereading the assignment grading criteria I realized that CSS comments must be added, so I went ahead and added what I thought were the most important things to comment on.
 
 Screen Shots Of Web Page:
 
