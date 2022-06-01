@@ -50,6 +50,8 @@ p {
     font-size: 16px;
 }
 
+/*Adds an image to grab viewers attention*/
+
 .hero {
     height: 750px;
     width: 100%;
@@ -75,6 +77,7 @@ p {
     margin-left: 20px;
 }
 
+/* Defines the parameters and color of the boxes in the benefits class in HTML*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -134,6 +137,7 @@ p {
     max-width: 150px;
 }
 
+/* Defines the parameters and color of the box around "Search Engine Optimization"*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -143,7 +147,7 @@ p {
     color: #ffffff;
 }
 
-
+/* Defines the parameters and color of the box around "Online Reputation Management"*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -153,7 +157,7 @@ p {
     color: #ffffff;
 }
 
-
+/* Defines the parameters and color of the box around "Social Media Marketing"*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
